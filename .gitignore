@@ -28,3 +28,4 @@ android/app/src/main/res/mipmap-*/ic_launcher.png
 .env
 *.log
 *.lock
+
