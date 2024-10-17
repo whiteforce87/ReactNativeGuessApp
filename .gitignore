@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Expo
+.expo/
+.expo-shared/
+
+# iOS
+ios/build/
+ios/Pods/
+ios/Podfile.lock
+ios/*.xcodeproj/project.xcworkspace/xcuserdata
+ios/*.xcuserdatad
+ios/**/*.xcworkspace
+ios/**/*.xcuserdatad
+
+# Android
+android/.gradle/
+android/app/build/
+android/app/src/main/res/mipmap-*/ic_launcher.png
+
+# Misc
+.DS_Store
+.env
+*.log
+*.lock
